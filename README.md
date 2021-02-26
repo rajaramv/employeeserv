@@ -42,3 +42,4 @@ Details:
 * Only controller unit tests written, integration tests are not written.
 * Builder pattern could have been used, but missed to implement.
 * Logging done in centralised place.
+* Realised very late that json2pojo is already used for employee object creation, commented to avoid duplicate class.

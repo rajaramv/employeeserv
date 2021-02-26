@@ -71,13 +71,6 @@
                     <useCommonsLang3>true</useCommonsLang3>
                     <includeHashcodeAndEquals>false</includeHashcodeAndEquals>
                 </configuration>
-                <executions>
-                    <execution>
-                        <goals>
-                            <goal>generate</goal>
-                        </goals>
-                    </execution>
-                </executions>
             </plugin>
         </plugins>
     </build>
